@@ -1,21 +1,8 @@
 # Desafio-LikeMe2
 
-🚀 Cómo Levantar el Proyecto
-Sigue estos pasos para clonar y ejecutar el entorno de desarrollo localmente.
+🚀 **Cómo Levantar el Proyecto**
 
-1. Clonar o descargar el repositorio
+Para levantar el proyecto, clona el repositorio, abre dos terminales separadas y ejecuta los comandos correspondientes.
 
-2. Configurar y ejecutar el Backend
-Bash
-cd backend
-npm install
-node index.js
-
-3. Configurar y ejecutar el Frontend
-Abre una segunda terminal en la raíz del proyecto y ejecuta:
-
-Bash
-cd frontend
-npm install
-npm run dev
-
+En la primera terminal entra a la carpeta backend (`cd backend`), instala las dependencias (`npm install`) e inicia el servidor (`node index.js`).
+En la segunda terminal entra a la carpeta frontend (`cd frontend`), instala las dependencias (`npm install`) y levanta el entorno de desarrollo (`npm run dev`).
